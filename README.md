@@ -1,2 +1,1 @@
-# Rush-app-py-
-Short summery 
+Rush-app-py
